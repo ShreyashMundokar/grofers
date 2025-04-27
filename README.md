@@ -109,7 +109,7 @@ DATABASE_URL=your-postgresql-database-url
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/shubham001official/grofers.git
+   git clone https://github.com/ShreyashMundokar/grofers.git
    ```
 
 2. **Install dependencies**:
@@ -135,4 +135,4 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 ## 📧 Contact
 
-For support or feedback, reach out via email: [shubham001official@email.com](mailto:shubham001official@email.com)
+For support or feedback, reach out via email: [shreyashmundokar22@gmail.com](mailto:shreyashmundokar22@gmail.com)
